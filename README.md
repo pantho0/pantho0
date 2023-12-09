@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Tahmid
 #### Front-End Developer, MERN Stack
 ![Front-End Developer, MERN Stack](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pantho0&theme=midnight-purple&hide_border=false" alt="GitHub Streak" style="width: 1280px">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pantho0&theme=midnight-purple&hide_border=false" alt="GitHub Streak" style="width: 1280px, height:200px">
 
 
 
