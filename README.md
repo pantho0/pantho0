@@ -1,9 +1,8 @@
 ### Hi there 👋, I'm Tahmid
 #### Front-End Developer, MERN Stack
 ![Front-End Developer, MERN Stack](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-<div style="background: linear-gradient(45deg, #FFE000, #799F0C); padding: 20px; display: inline-block;">
-    <img src="https://streak-stats.demolab.com/?user=pantho0" alt="GitHub streak stats" width="100%">
-</div>
+[![GitHub streak stats](https://streak-stats.demolab.com/?user=pantho0&background=FFE000&border=799F0C)](https://streak-stats.demolab.com/?user=pantho0)
+
 
 
 
