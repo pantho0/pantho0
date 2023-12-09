@@ -6,8 +6,10 @@ I'm a front-end wizard in the MERN stack, bringing websites to life with MongoDB
 
 Skills: React, NodeJS, ExpressJS, Tailwind CSS
 
-- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Next.js, MUI 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pantho0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pantho-mashreky/)  
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=pantho0)  
 
