@@ -1,5 +1,5 @@
 
-!(https://raw.githubusercontent.com/pantho0/pantho0/main/Mashraki%20Toki%20Tahmid%20(2).png)
+https://raw.githubusercontent.com/pantho0/pantho0/main/Mashraki%20Toki%20Tahmid%20(2).png
 ### Hi there 👋, I'm Mashraki Toki Tahmid
 ###### Front-End Developer, MERN Stack.
 ![Front-End Developer, MERN Stack]
