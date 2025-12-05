@@ -18,7 +18,7 @@ I'm a front-end wizard in the MERN stack, bringing websites to life with MongoDB
 
 ### Reach Out:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='fill: #9745F5;'>](https://github.com/pantho0)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='fill: #9745F5;'>](https://www.linkedin.com/in/pantho-mashreky/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' style='fill: #9745F5;'>](https://www.facebook.com/pantho0)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' style='fill: #9745F5;'>](https://www.instagram.com/p_a_n_t_h_o_/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='fill: #ffffffff;'>](https://github.com/pantho0)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='fill: #ffffffff;'>](https://www.linkedin.com/in/pantho-mashreky/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' style='fill: #fafafaff;'>](https://www.facebook.com/pantho0)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' style='fill: #ffffffff;'>](https://www.instagram.com/p_a_n_t_h_o_/)
