@@ -6,11 +6,11 @@
 
 ## Hi there 👋, I'm Mashraki Toki Tahmid
 
-#### Front-End Developer, MERN Stack.
+#### Web Developer.
 
 ### Overview:
 
-I'm a front-end wizard in the MERN stack, bringing websites to life with MongoDB, Express.js, React.js, Node.js, and a touch of Tailwind CSS magic. My mission is to create visually stunning and super smooth experiences. I envision a digital world where every site is a masterpiece, making online spaces both beautiful and easy to navigate. Let's turn your digital dreams into reality! 💻✨
+I’m a web developer working with the MERN stack and Next.js. I enjoy building smooth, clean, and good-looking websites using React, Node.js, MongoDB, Express.js, and Tailwind CSS. My goal is to make the web simple and enjoyable for everyone.
 
 ### My Skills:
 
