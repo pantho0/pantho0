@@ -12,9 +12,9 @@
 
 I'm a front-end wizard in the MERN stack, bringing websites to life with MongoDB, Express.js, React.js, Node.js, and a touch of Tailwind CSS magic. My mission is to create visually stunning and super smooth experiences. I envision a digital world where every site is a masterpiece, making online spaces both beautiful and easy to navigate. Let's turn your digital dreams into reality! 💻✨
 
-### My Tech Stack:
+### My Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,tailwind,vite,postman)](https://skillicons.dev)
 
 ### Reach Out:
 
