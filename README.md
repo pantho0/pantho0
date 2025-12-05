@@ -6,8 +6,6 @@
 
 ## Hi there 👋, I'm Mashraki Toki Tahmid
 
-#### Web Developer.
-
 ### Overview:
 
 I’m a web developer working with the MERN stack and Next.js. I enjoy building smooth, clean, and good-looking websites using React, Node.js, MongoDB, Express.js, and Tailwind CSS. My goal is to make the web simple and enjoyable for everyone.
