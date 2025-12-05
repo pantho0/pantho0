@@ -14,7 +14,7 @@ I'm a front-end wizard in the MERN stack, bringing websites to life with MongoDB
 
 ### My Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,tailwind,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,vite)](https://skillicons.dev)
 
 ### Reach Out:
 
