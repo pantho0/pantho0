@@ -18,7 +18,7 @@ I'm a front-end wizard in the MERN stack, bringing websites to life with MongoDB
 
 ### Reach Out:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='fill: #ffffffff;'>](https://github.com/pantho0)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='fill: #ffffffff;'>](https://www.linkedin.com/in/pantho-mashreky/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' style='fill: #fafafaff;'>](https://www.facebook.com/pantho0)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' style='fill: #ffffffff;'>](https://www.instagram.com/p_a_n_t_h_o_/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=9745F5)](https://github.com/pantho0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=9745F5)](https://www.linkedin.com/in/pantho-mashreky/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=9745F5)](https://www.facebook.com/pantho0)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=9745F5)](https://www.instagram.com/p_a_n_t_h_o_/)
