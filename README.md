@@ -1,4 +1,4 @@
-![Front-End Developer, MERN Stack](<https://raw.githubusercontent.com/pantho0/pantho0/main/Mashraki%20Toki%20Tahmid%20(2).png>)
+![Front-End Developer, MERN Stack](https://raw.githubusercontent.com/pantho0/pantho0/main/mashrakitokitahmid.png)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pantho0&theme=midnight-purple&hide_border=false" alt="GitHub Streak" style="width: 70%">
